@@ -17,14 +17,14 @@ WIM_MUSIC i a web based application which is basically a music streaming website
 
 
 ### TechStack
-*MongoDB
-*Firebase
-*Express.js
-*React
-*Node.js
-*HTML
-*CSS and SCSS
-*JS
+* MongoDB
+* Firebase
+* Express.js
+* React
+* Node.js
+* HTML
+* CSS and SCSS
+* JS
 
 ### Applications
 1. Playing Music.
@@ -40,4 +40,4 @@ WIM_MUSIC i a web based application which is basically a music streaming website
 
 
 
-*GitHub repo link: ![Link to repository] (https://github.com/nehak2209/WIM_MUSIC)
+* GitHub repo link: ![Link to repository] (https://github.com/nehak2209/WIM_MUSIC)
