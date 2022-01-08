@@ -5,7 +5,7 @@
 * Prerna Shelke - prernashelke01@gmail.com
 
 ### About The Project
-WIM_MUSIC i a web based application which is basically a music streaming website.
+WIM_MUSIC is a web based application which is basically a music streaming website.
 
 ## Features
 1. User accounnt creation (Sign in and Sign up)
