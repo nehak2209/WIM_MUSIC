@@ -1,11 +1,11 @@
-### WIM_MUSIC_Website
+### WIM_MUSIC_Website (MyMelody)
 
 ## Team members
 * Neha Khairnar- nehak2209pc@gmail.com
 * Prerna Shelke - prernashelke01@gmail.com
 
 ### About The Project
-WIM_MUSIC is a web based application which is basically a music streaming website.
+WIM_MUSIC named MyMelody is a web based application which is basically a music streaming website.
 
 ## Features
 1. User accounnt creation (Sign in and Sign up)
@@ -36,7 +36,8 @@ WIM_MUSIC is a web based application which is basically a music streaming websit
 1. Feature of following different artists.
 2. More user-friendly UI
 
-### Project Screenshots
+### Project Report
+* Project Report: ![Drive link here] (https://github.com/nehak2209/WIM_MUSIC/blob/main/G25_MusicStreamingWebsite_2.pdf)
 
 
 
